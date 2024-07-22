@@ -1,0 +1,15 @@
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/bin/Debug/net6.0/ContactsManager
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/bin/Debug/net6.0/ContactsManager.deps.json
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/bin/Debug/net6.0/ContactsManager.runtimeconfig.json
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/bin/Debug/net6.0/ContactsManager.dll
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/bin/Debug/net6.0/ContactsManager.pdb
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.csproj.AssemblyReference.cache
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.AssemblyInfoInputs.cache
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.AssemblyInfo.cs
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.csproj.CoreCompileInputs.cache
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.dll
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/refint/ContactsManager.dll
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.pdb
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ContactsManager.genruntimeconfig.cache
+/Users/anthonyvillegas/RiderProjects/ContactsMgmtConsoleApp/ContactsManager/obj/Debug/net6.0/ref/ContactsManager.dll

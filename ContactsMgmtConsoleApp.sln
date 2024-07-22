@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsManager", "ContactsManager\ContactsManager.csproj", "{5C9BBAF1-9A56-4851-9CC1-FD50ADD6DEE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookConsole", "PhoneBookConsole\PhoneBookConsole.csproj", "{F4F2A85C-5BFD-4578-ABF6-7204E87CD316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{5C9BBAF1-9A56-4851-9CC1-FD50ADD6DEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9BBAF1-9A56-4851-9CC1-FD50ADD6DEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9BBAF1-9A56-4851-9CC1-FD50ADD6DEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F2A85C-5BFD-4578-ABF6-7204E87CD316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F2A85C-5BFD-4578-ABF6-7204E87CD316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F2A85C-5BFD-4578-ABF6-7204E87CD316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F2A85C-5BFD-4578-ABF6-7204E87CD316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
